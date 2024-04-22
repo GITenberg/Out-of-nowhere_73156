@@ -9,12 +9,17 @@ contributor:
     gutenberg_agent_id: '53048'
     url: http://www.gutenberg.org/2009/agents/53048
     wikipedia: https://en.wikipedia.org/wiki/John_Forte
+covers:
+- cover_type: archival
+  image_path: 73156-h/images/cover.jpg
 creator:
   author:
     agent_name: Grosser, E. A.
     gutenberg_agent_id: '56964'
     url: http://www.gutenberg.org/2009/agents/56964
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73156#Out-of-nowhere
 gutenberg_issued: '2024-03-13'
 gutenberg_type: Text
 identifiers:
